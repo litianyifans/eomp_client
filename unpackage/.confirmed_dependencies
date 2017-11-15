@@ -1,0 +1,391 @@
+{
+  "index.html": {
+    "resources": [
+      "css/bootstrap.css",
+      "js/mui.min.js",
+      "image/logo.gif",
+      "css/mui.css",
+      "image/56.jpg",
+      "js/jquery-2.1.1.min.js",
+      "css/styles.css",
+      "css/mui.min.css",
+      "index.html",
+      "image/huisse.jpg",
+      "fonts/mui.ttf",
+      "image/banner4.jpg",
+      "js/base.js"
+    ],
+    "refer": [
+      "index.html",
+      "regeit.html",
+      "bottom.html"
+    ]
+  },
+  "loginSlider.html": {
+    "resources": [
+      "image/Screenshot_2017-07-07-20-07-55_2472413_2483457_2560694.png",
+      "js/jquery-2.1.1.min.js",
+      "css/bootstrap.css",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "js/bootstrap.min.js",
+      "image/Screenshot_2017-07-07-20-07-19_3168286.png",
+      "image/Screenshot_2017-07-07-20-07-36_2619272.png",
+      "image/Screenshot_2017-07-07-20-07-55_4423704.png",
+      "index.Home.html",
+      "image/Screenshot_2017-07-07-20-07-55_21547045.png",
+      "image/Screenshot_2017-07-07-20-07-36_2619272_21498638.png",
+      "image/Screenshot_2017-07-07-20-07-19_3168286_21466891.png"
+    ],
+    "refer": [
+      "index.Home.html"
+    ]
+  },
+  "index.Home.html": {
+    "resources": [
+      "image/6903.jpg_wh860.jpg",
+      "image/5657.jpg_wh860.jpg",
+      "image/3476.jpg_wh860.jpg",
+      "image/5239.jpg_wh860.jpg",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "loginSlider.html",
+      "image/270748_1495096046131.jpg",
+      "image/120178_1490347515940.jpg",
+      "image/463771_1498811427502.jpg",
+      "fonts/mui.ttf",
+      "image/512215_1499667970690.jpg",
+      "image/487375_1499221560339.jpg",
+      "image/2002150_1499395420461.jpg",
+      "image/Screenshot_2017-07-12-08-34-39_3420119_3449993.png",
+      "image/1tyl.png",
+      "image/1ees.png",
+      "image/payment-monthly.png",
+      "image/rent-fs3.png",
+      "image/brand.png",
+      "image/1ss.png",
+      "image/rent-fs2.png",
+      "image/1ee.png",
+      "homes.html",
+      "wishlist.html",
+      "mannger.html"
+    ],
+    "refer": [
+      "loginSlider.html",
+      "homes.html",
+      "wishlist.html",
+      "mannger.html"
+    ]
+  },
+  "homes.html": {
+    "resources": [
+      "image/rentou.png",
+      "image/5604319.jpg",
+      "js/jquery-2.1.1.min.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "image/u1.png",
+      "index.Home.html",
+      "base.js",
+      "selectist.html"
+    ],
+    "refer": [
+      "index.Home.html",
+      "selectist.html"
+    ]
+  },
+  "mannger.html": {
+    "resources": [
+      "w.html",
+      "wishlist.html",
+      "index.Home.html",
+      "image/u1.png",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "image/2002150_1499395420461.jpg",
+      "css/mui.min.css",
+      "image/rent-fs3.png",
+      "image/Screenshot_2017-07-12-08-34-39_3420119_3449993.png",
+      "Pic.html",
+      "js/weixin.js",
+      "js/base.js",
+      "js/jquery.min.js"
+    ],
+    "refer": [
+      "w.html",
+      "wishlist.html",
+      "index.Home.html",
+      "Pic.html",
+      "publish.html",
+      "homes.html",
+      "selectist.html",
+      "imageviewer.html"
+    ]
+  },
+  "w.html": {
+    "resources": [
+      "image/muguss.png",
+      "image/banner4.jpg",
+      "image/favicon.ico",
+      "index.Home.html",
+      "mannger.html",
+      "image/1tyl.png",
+      "image/u1.png",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "image/rent-fs3.png",
+      "js/weixin.js",
+      "wupdate.html",
+      "js/jquery-2.1.1.min.js",
+      "js/base.js"
+    ],
+    "refer": [
+      "index.Home.html",
+      "mannger.html",
+      "wupdate.html",
+      "Pic.html",
+      "wishlist.html",
+      "publish.html",
+      "bottom.html",
+      "person.html",
+      "setting.html"
+    ]
+  },
+  "wishlist.html": {
+    "resources": [
+      "mannger.html",
+      "index.Home.html",
+      "image/5604319.jpg",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "image/Screenshot_2017-07-12-08-34-39_3420119_3449993.png",
+      "js/weixin.js",
+      "js/base.js",
+      "js/jquery.min.js",
+      "js/mui.zoom.js",
+      "js/mui.previewimage.js"
+    ],
+    "refer": [
+      "mannger.html",
+      "index.Home.html",
+      "indexhome.html",
+      "homes.html"
+    ]
+  },
+  "Pic.html": {
+    "resources": [
+      "image/aay.png",
+      "mannger.html",
+      "fabu.html",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/jquery.min.js",
+      "js/mui.picker.min.js",
+      "css/mui.picker.min.css",
+      "image/muguss.png",
+      "js/base.js"
+    ],
+    "refer": [
+      "mannger.html",
+      "fabu.html"
+    ]
+  },
+  "fabu.html": {
+    "resources": [
+      "Pic.html",
+      "js/mui.picker.min.js",
+      "css/mui.picker.min.css",
+      "js/base.js",
+      "js/jquery-2.1.1.min.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css"
+    ],
+    "refer": [
+      "Pic.html"
+    ]
+  },
+  "regeit.html": {
+    "resources": [
+      "image/banner4.jpg",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/base.js",
+      "js/jquery.min.js"
+    ],
+    "refer": [
+      "index.html",
+      "bottom.html"
+    ]
+  },
+  "bottom.html": {
+    "resources": [
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "index.Home.html",
+      "wishlist.html",
+      "indexhome.html",
+      "js/weixin.js",
+      "js/jquery.min.js",
+      "mannger.html",
+      "js/base.js"
+    ],
+    "refer": [
+      "index.Home.html",
+      "mannger.html",
+      "wishlist.html",
+      "w.html",
+      "indexhome.html",
+      "index.html",
+      "imageviewer.html"
+    ]
+  },
+  "indexhome.html": {
+    "resources": [
+      "image/payment-monthly.png",
+      "image/270748_1495096046131.jpg",
+      "image/120178_1490347515940.jpg",
+      "image/brand.png",
+      "image/463771_1498811427502.jpg",
+      "image/1ss.png",
+      "image/rent-fs2.png",
+      "image/1ee.png",
+      "image/1ees.png",
+      "image/512215_1499667970690.jpg",
+      "image/487375_1499221560339.jpg",
+      "fonts/mui.ttf",
+      "image/2002150_1499395420461.jpg",
+      "image/Screenshot_2017-07-12-08-34-39_3420119_3449993.png",
+      "image/1tyl.png",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "image/rent-fs3.png",
+      "js/weixin.js",
+      "js/jquery.min.js",
+      "homes.html",
+      "js/base.js",
+      "selectist.html"
+    ],
+    "refer": [
+      "wishlist.html",
+      "homes.html",
+      "cha.html",
+      "selectist.html"
+    ]
+  },
+  "wupdate.html": {
+    "resources": [
+      "js/mui.picker.min.js",
+      "css/mui.picker.min.css",
+      "w.html",
+      "image/muguss.png",
+      "js/base.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "js/jquery.min.js"
+    ],
+    "refer": [
+      "w.html"
+    ]
+  },
+  "selectist.html": {
+    "resources": [
+      "homes.html",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "image/2002150_1499395420461.jpg",
+      "css/mui.min.css",
+      "js/jquery.min.js",
+      "js/base.js",
+      "bottom.html",
+      "indexhome.html",
+      "image/Screenshot_2017-07-12-08-34-39_3420119_3449993.png",
+      "cha.html"
+    ],
+    "refer": [
+      "homes.html",
+      "bottom.html",
+      "indexhome.html",
+      "cha.html"
+    ]
+  },
+  "publish.html": {
+    "resources": [
+      "js/base.js",
+      "js/mui.picker.min.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "css/mui.picker.min.css",
+      "image/muguss.png",
+      "js/jquery.min.js"
+    ],
+    "refer": []
+  },
+  "person.html": {
+    "refer": [
+      "homes.html"
+    ],
+    "resources": [
+      "js/base.js",
+      "js/weixin.js",
+      "js/jquery.min.js",
+      "js/mui.min.js",
+      "image/2002150_1499395420461.jpg",
+      "css/mui.min.css",
+      "image/Screenshot_2017-07-12-08-34-39_3420119_3449993.png"
+    ]
+  },
+  "imageviewer.html": {
+    "resources": [
+      "js/mui.zoom.js",
+      "js/mui.previewimage.js",
+      "image/5604319.jpg",
+      "js/base.js",
+      "js/weixin.js",
+      "js/jquery.min.js",
+      "js/mui.min.js",
+      "css/mui.min.css",
+      "image/Screenshot_2017-07-12-08-34-39_3420119_3449993.png"
+    ],
+    "refer": [
+      "homes.html"
+    ]
+  },
+  "cha.html": {
+    "refer": [
+      "selectist.html"
+    ],
+    "resources": [
+      "js/jquery.min.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "selectist.html"
+    ]
+  },
+  "setting.html": {
+    "resources": [
+      "css/feedback.css",
+      "img/logo.png",
+      "js/feedback.js",
+      "js/mui.view.js",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "base.js",
+      "css/mui.min.css",
+      "js/jquery.min.js",
+      "index.html"
+    ],
+    "refer": [
+      "index.html"
+    ]
+  }
+}
